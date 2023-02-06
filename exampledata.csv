@@ -1,0 +1,4 @@
+_id,lastName,firstName,gender,language,birthDate,patient_id,visit_id,stay_house,stay_room,stay_bedNr,arrivalDate,departureDate,stay_roomCategory,address_country,address_plz,address_city,age_at_stay,stay_duration,age_now,importedat,bwid,stay_lastUpdate
+d2f97d65,Mustermann,Otto,male,English,1987-06-18 00:00:00.000,262665,422900,Pinkerton,11,1,2022-05-04 10:01:00.000,2022-05-25 10:00:00.000,Superior,SA,86152,Augsburg,44,21.0,44,2022-05-04 15:19:18.911,,
+5a21b87f,Pfiff,Melson,male,German,1983-07-07 00:00:00.000,261713,301283,ambuP,,0,2022-05-04 10:00:00.000,2023-05-04 10:00:00.000,ambu,DE,86152,Augsburg,55,366.0,55,2022-05-04 15:19:18.911,,
+d167850f,Zucci,Frida,female,French,1946-04-24 00:00:00.000,232731,421793,Station 892H,422,1,2022-05-04 10:00:00.000,2022-05-14 10:00:00.000,Standard,FR,32107,Paris,50,11.0,50,2022-05-04 15:19:18.911,,
