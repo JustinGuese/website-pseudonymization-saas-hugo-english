@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://data-pseudonymization.com/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -15,11 +15,24 @@
                 href="https://data-pseudonymization.com/"
                 />
   </url><url>
+    <loc>https://data-pseudonymization.com/tags/anonymization/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/anonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/anonymization/"
+                />
+  </url><url>
     <loc>https://data-pseudonymization.com/blog/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://data-pseudonymization.com/categories/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -31,53 +44,284 @@
                 href="https://data-pseudonymization.com/categories/"
                 />
   </url><url>
-    <loc>https://data-pseudonymization.com/blog/post-1/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://data-pseudonymization.com/tags/image/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <loc>https://data-pseudonymization.com/tags/data-anonymization/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://data-pseudonymization.com/es/tags/image/"
+                href="https://data-pseudonymization.com/es/tags/data-anonymization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://data-pseudonymization.com/tags/image/"
+                href="https://data-pseudonymization.com/tags/data-anonymization/"
                 />
   </url><url>
-    <loc>https://data-pseudonymization.com/tags/photo/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <loc>https://data-pseudonymization.com/tags/data-compliance/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://data-pseudonymization.com/es/tags/photo/"
+                href="https://data-pseudonymization.com/es/tags/data-compliance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://data-pseudonymization.com/tags/photo/"
+                href="https://data-pseudonymization.com/tags/data-compliance/"
                 />
   </url><url>
-    <loc>https://data-pseudonymization.com/categories/photography/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <loc>https://data-pseudonymization.com/tags/data-confidentiality/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://data-pseudonymization.com/es/categories/photography/"
+                href="https://data-pseudonymization.com/es/tags/data-confidentiality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://data-pseudonymization.com/categories/photography/"
+                href="https://data-pseudonymization.com/tags/data-confidentiality/"
                 />
   </url><url>
-    <loc>https://data-pseudonymization.com/services/sensitive-data-scanning/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <loc>https://data-pseudonymization.com/tags/data-control/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-control/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-control/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-governance/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-governance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-governance/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-management/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-management/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-privacy/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-privacy/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-privacy-law/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-privacy-law/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-privacy-law/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-processing/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-processing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-processing/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-protection/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-protection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-protection/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-pseudonymization/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-pseudonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-pseudonymization/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-risk-management/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-risk-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-risk-management/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/data-security/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/data-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/data-security/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/easy-guide/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/easy-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/easy-guide/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/eu-regulations/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/eu-regulations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/eu-regulations/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/categories/gdpr/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/categories/gdpr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/categories/gdpr/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/gdpr-compliance/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/gdpr-compliance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/gdpr-compliance/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/blog/pseudonymization-anonymization-guide/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://data-pseudonymization.com/categories/guide/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/categories/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/categories/guide/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/personal-data/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/personal-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/personal-data/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/pseudonymization/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/pseudonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/pseudonymization/"
+                />
+  </url><url>
+    <loc>https://data-pseudonymization.com/tags/sensitive-data/</loc>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://data-pseudonymization.com/es/tags/sensitive-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://data-pseudonymization.com/tags/sensitive-data/"
+                />
   </url><url>
     <loc>https://data-pseudonymization.com/tags/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+    <lastmod>2023-02-10T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -88,6 +332,9 @@
                 hreflang="en"
                 href="https://data-pseudonymization.com/tags/"
                 />
+  </url><url>
+    <loc>https://data-pseudonymization.com/services/sensitive-data-scanning/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://data-pseudonymization.com/services/on-premise-sensitive-data-scanner/</loc>
     <lastmod>2023-01-13T15:40:24+06:00</lastmod>
