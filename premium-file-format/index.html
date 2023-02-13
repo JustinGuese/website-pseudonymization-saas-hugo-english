@@ -119,9 +119,11 @@
 
 <body>
 	
+	
+	
 	<!-- navigation -->
 
-<header class="navigation ">
+<header class="navigation bg-tertiary">
   <nav class="navbar navbar-expand-xl navbar-light text-center py-3">
     <div class="container">
       <a class="navbar-brand" href="/">
@@ -330,9 +332,7 @@
     </div>
   </div>
 </div>
-
-  
-  
+	
 	<section class="page-header bg-tertiary">
   <div class="container">
     <div class="row">
@@ -385,24 +385,137 @@
     </svg>  
   </div>
 </section>
-  <section class="section-sm">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-10 mx-auto">
-          <div class="content">
-            <h1 id="uhoh-you-just-uploaded-a-non-simple-file">Uhoh! You just uploaded a non-simple file</h1>
-<p>Your file is too complex for the free plan.
-Either adapt it in the &ldquo;simple&rdquo; style of our <a href="/exampledata.csv">exampledata.csv</a>/<a href="/exampledata.xlsx">exampledata.xlsx</a>, or buy a premium subscription which supports advanced scanning and custom support.</p>
-<p><a href="/premium">Have a look at our affordable subscriptions for extra functionality</a></p>
-
-          </div>
+	
+	
+	<section class="text-center">
+    <h4 class="mb-4"><strong>Pricing</strong></h4>
+    <div class="btn-group mb-4" role="group" aria-label="Basic example">
+      <button type="button" class="btn btn-dark active">Monthly billing</button>
+      
+    </div>
+  </section>
+  <div class="row">
+    <div class="col-md-3">
+      <div class="card">
+        <div class="mx-2 card-body">
+          <h5 class="card-title my-2 ">Free</h5>
+          <p class="text-muted mb-2">
+            Free scanning of basic, small files
+          </p>
+          <p class="h2 fw-bold">0€<small class="text-muted" style="font-size: 18px;">/mo</small></p>
+          <a href="/" class="btn btn-dark d-block mb-2 mt-3 text-capitalize">Start</a>
+        </div>
+        <div class="card-footer">
+          <p class="text-uppercase fw-bold" style="font-size: 12px;">What's included</p>
+          <ol class="list-unstyled mb-0 px-4">
+            <p class="my-3 fw-bold text-muted text-center">
+            </p>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>CSV, Excel, Parquet, JSON files</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Basic sensitive data scanning</small>
+            </li>
+          </ol>
         </div>
       </div>
     </div>
-  </section>
-  
-  
-
+    <div class="col-md-3">
+      <div class="card border border-dark">
+        <div class="mx-2 card-body">
+          <h5 class="card-title my-2 ">Plus</h5>
+          <p class="text-muted">
+            All in "Free", plus extended data scanning API
+          </p>
+          <p class="h2 fw-bold">9€<small class="text-muted" style="font-size: 18px;">/mo</small></p>
+          <a href="https://buy.stripe.com/test_7sI9CygG83CT4uY288" class="btn btn-dark d-block mb-2 mt-3 text-capitalize">Buy Plus</a>
+        </div>
+        <div class="card-footer">
+          <p class="text-uppercase fw-bold" style="font-size: 12px;">What's included</p>
+          <ol class="list-unstyled mb-0 px-4">
+            <p class="my-3 fw-bold text-muted text-center">
+            </p>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>All in "Free"</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Advanced sensitive data scanner</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>API usage</small>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card">
+        <div class="mx-2 card-body">
+          <h5 class="card-title my-2 ">Premium</h5>
+          <p class="text-muted">
+            Premium API, custom file formats, personal consultation
+          </p>
+          <p class="h2 fw-bold">29€<small class="text-muted" style="font-size: 18px;">/mo</small></p>
+          <a href="https://buy.stripe.com/test_fZedSOcpS8Xd7Ha289" class="btn btn-dark d-block mb-2 mt-3 text-capitalize">Buy Premium</a>
+        </div>
+        <div class="card-footer">
+          <p class="text-uppercase fw-bold" style="font-size: 12px;">What's included</p>
+          <ol class="list-unstyled mb-0 px-4">
+            <p class="my-3 fw-bold text-muted text-center">
+            </p>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>All in "Plus"</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Custom file formats</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Personal consultation</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small><a href="/pseudonymization" target="_blank">Pseudonymization</a></small>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card">
+        <div class="mx-2 card-body">
+          <h5 class="card-title my-2 ">Enterprise</h5>
+          <p class="text-muted">
+            Custom solutions, dedicated support
+          </p>
+          <p class="h2 fw-bold">199€+<small class="text-muted" style="font-size: 18px;">/mo</small></p>
+          <a href="/contact" class="btn btn-dark d-block mb-2 mt-3 text-capitalize">Contact us</a>
+        </div>
+        <div class="card-footer">
+          <p class="text-uppercase fw-bold" style="font-size: 12px;">What's included</p>
+          <ol class="list-unstyled mb-0 px-4">
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>On-premise sensitive data scanner</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Managed pseudonymizing SQL databases</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Pseudonymization coupled with Microsoft AD & LDAP</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Role and Group based pseudonymization & anonymization</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Support</small>
+            </li>
+            <li class="mb-3">
+              <i class="fas fa-check text-success me-3"></i><small>Consultation</small>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</br>
 	<footer class="section-sm bg-tertiary">
   <div class="container">
     <div class="row justify-content-between">
