@@ -96,7 +96,7 @@ Condiciones generales de DataFortress.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://data-pseudonymization.com/es/premium-file-format/</guid>
-      <description>\n\n# ¡Uhoh! Acabas de subir un archivo no simple\n\nSu expediente es demasiado complejo para el plan gratuito.</description>
+      <description>¡Uhoh! Acabas de subir un archivo no simple Su expediente es demasiado complejo para el plan gratuito.</description>
     </item>
     
     <item>
@@ -105,7 +105,8 @@ Condiciones generales de DataFortress.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://data-pseudonymization.com/es/pseudonymization/</guid>
-      <description>\n\n# Pseudonymization is a plus/premium feature :/\n\n¿Por qué?\n\nPara seudonimizar los datos, tenemos que guardar una clave hash por cuenta de usuario para sus datos, para que pueda unir y combinar sus datos basándose en esa clave.</description>
+      <description>Pseudonymization is a plus/premium feature :/ ¿Por qué?
+Para seudonimizar los datos, tenemos que guardar una clave hash por cuenta de usuario para sus datos, para que pueda unir y combinar sus datos basándose en esa clave.</description>
     </item>
     
     <item>
@@ -124,7 +125,8 @@ HRB 36456</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://data-pseudonymization.com/es/subscription-plus-success/</guid>
-      <description>\n\n¡Sí! Te has suscrito al plan Plus.\n\nCon ello podrá utilizar las funciones avanzadas de escaneado.</description>
+      <description>¡Sí! Te has suscrito al plan Plus.
+Con ello podrá utilizar las funciones avanzadas de escaneado.</description>
     </item>
     
     <item>
