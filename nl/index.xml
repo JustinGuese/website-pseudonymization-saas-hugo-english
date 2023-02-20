@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Pseudonymization</title>
+    <link>https://data-pseudonymization.com/nl/</link>
+    <description>Recent content on Data Pseudonymization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <copyright>Developed by DataFortress.cloud UG</copyright>
+    <lastBuildDate>Fri, 10 Feb 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://data-pseudonymization.com/nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GDPR-compliance gemakkelijk gemaakt: de ultieme gids voor pseudonimisering en anonimisering</title>
+      <link>https://data-pseudonymization.com/nl/blog/pseudonymization-anonymization-guide/</link>
+      <pubDate>Fri, 10 Feb 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/blog/pseudonymization-anonymization-guide/</guid>
+      <description>Neem de stress van GDPR-compliance weg met de ultieme gids voor pseudonimisering en anonimisering.</description>
+    </item>
+    
+    <item>
+      <title>Scan uw gegevens voor GDPR-naleving met onze webinterface en API</title>
+      <link>https://data-pseudonymization.com/nl/services/sensitive-data-scanning/</link>
+      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/sensitive-data-scanning/</guid>
+      <description>Moeiteloos GDPR-compliance bereiken met onze web-interface en API scanoplossing Uw gegevens scannen op naleving van de GDPR kan een ontmoedigende taak zijn, vooral als je niet bekend bent met de regels&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>On-premise GDPR-compliance met onze oplossing voor het scannen van datalandschappen</title>
+      <link>https://data-pseudonymization.com/nl/services/on-premise-sensitive-data-scanner/</link>
+      <pubDate>Fri, 13 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/on-premise-sensitive-data-scanner/</guid>
+      <description>GDPR-naleving op locatie bereiken: Laat onze Data Landscape Scanning Tool helpen Terwijl bedrijven door het steeds veranderende landschap van privacyregels navigeren, wordt het steeds belangrijker dat uw organisatie volledig voldoet aan de GDPR.</description>
+    </item>
+    
+    <item>
+      <title>GDPR-conforme beheerde SQL-instanties gehost in Duitsland met ingebouwde anonimisering</title>
+      <link>https://data-pseudonymization.com/nl/services/gdpr-sql-instances/</link>
+      <pubDate>Thu, 12 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/gdpr-sql-instances/</guid>
+      <description>Beveilig uw gegevens met GDPR-compliant Managed SQL Instances gehost in Duitsland Als het gaat om gegevensprivacy en compliance, een van de belangrijkste overwegingen is de fysieke locatie van uw gegevens.</description>
+    </item>
+    
+    <item>
+      <title>Overleg over naleving van gegevens</title>
+      <link>https://data-pseudonymization.com/nl/services/data-compliance-consultation/</link>
+      <pubDate>Wed, 11 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/data-compliance-consultation/</guid>
+      <description>Zorg voor GDPR-naleving met onze deskundige adviesdiensten. De naleving van de Algemene Verordening Gegevensbescherming (GDPR) kan voor elke organisatie een ontmoedigende taak zijn.</description>
+    </item>
+    
+    <item>
+      <title>ETL data pipelines. Laat ons uw gegevens transformeren en combineren.</title>
+      <link>https://data-pseudonymization.com/nl/services/data-pipelines/</link>
+      <pubDate>Tue, 10 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/data-pipelines/</guid>
+      <description>Stroomlijn uw gegevensbeheer: Laat ons uw ETL-pijplijnen optimaliseren Gegevensbeheer is een cruciaal aspect van elk bedrijf, en het wordt alleen maar complexer naarmate de hoeveelheid gegevens toeneemt&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Contacteer ons</title>
+      <link>https://data-pseudonymization.com/nl/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ&#39;s</title>
+      <link>https://data-pseudonymization.com/nl/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoe het werkt</title>
+      <link>https://data-pseudonymization.com/nl/how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/how-it-works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://data-pseudonymization.com/nl/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/imprint/</guid>
+      <description>\n\nDataFortress.wolk UG\nGeorgenstrasse 13\n86152 Augsburg\nDuitsland\nDE345185498\n\nHRB 36456\n\ninfo@datafortress.cloud</description>
+    </item>
+    
+    <item>
+      <title>Over ons</title>
+      <link>https://data-pseudonymization.com/nl/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plus Abonnement succes pagina</title>
+      <link>https://data-pseudonymization.com/nl/subscription-plus-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/subscription-plus-success/</guid>
+      <description>\n\nYay! Je hebt je met succes ingeschreven voor het Plus plan!</description>
+    </item>
+    
+    <item>
+      <title>Premium</title>
+      <link>https://data-pseudonymization.com/nl/premium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/premium/</guid>
+      <description>\n\nBekijk onze betaalbare en geavanceerde plannen voor maximale beveiliging en compliance.</description>
+    </item>
+    
+    <item>
+      <title>Premium bestandsformaat</title>
+      <link>https://data-pseudonymization.com/nl/premium-file-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/premium-file-format/</guid>
+      <description>\n\n# Uhoh! Je hebt net een niet-eenvoudig bestand geupload\n\nUw bestand is te complex voor het gratis plan.</description>
+    </item>
+    
+    <item>
+      <title>Privacy en beleid</title>
+      <link>https://data-pseudonymization.com/nl/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/privacy-policy/</guid>
+      <description>gegevens-pseudonimisering.com is een website en merk van DataFortress.wolk UG.
+Wij zijn zeer verheugd dat u interesse hebt getoond in onze onderneming&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Pseudonimiseringsfunctie</title>
+      <link>https://data-pseudonymization.com/nl/pseudonymization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/pseudonymization/</guid>
+      <description>\n\n# Pseudonymization is a plus/premium feature :/\n\nWaarom?\n\nOm gegevens te pseudonimiseren, we moeten één hashing sleutel per gebruikersaccount opslaan voor uw gegevens, zodat u nog steeds uw gegevens kunt samenvoegen en combineren op basis van die sleutel.</description>
+    </item>
+    
+    <item>
+      <title>Succespagina Premium Abonnement</title>
+      <link>https://data-pseudonymization.com/nl/subscription-premium-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/subscription-premium-success/</guid>
+      <description>\n\nYay! Je hebt je met succes ingeschreven voor het Premium plan!</description>
+    </item>
+    
+    <item>
+      <title>Voorwaarden</title>
+      <link>https://data-pseudonymization.com/nl/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/terms/</guid>
+      <description>pseudonimisering.de is een product van DataFortress.wolk UG
+Algemene voorwaarden van DataFortress.</description>
+    </item>
+    
+  </channel>
+</rss>

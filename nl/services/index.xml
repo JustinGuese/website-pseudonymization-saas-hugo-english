@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onze diensten on Data Pseudonymization</title>
+    <link>https://data-pseudonymization.com/nl/services/</link>
+    <description>Recent content in Onze diensten on Data Pseudonymization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <copyright>Developed by DataFortress.cloud UG</copyright>
+    <lastBuildDate>Wed, 11 Jan 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://data-pseudonymization.com/nl/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scan uw gegevens voor GDPR-naleving met onze webinterface en API</title>
+      <link>https://data-pseudonymization.com/nl/services/sensitive-data-scanning/</link>
+      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/sensitive-data-scanning/</guid>
+      <description>Moeiteloos GDPR-compliance bereiken met onze web-interface en API scanoplossing Uw gegevens scannen op naleving van de GDPR kan een ontmoedigende taak zijn, vooral als je niet bekend bent met de regels&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>On-premise GDPR-compliance met onze oplossing voor het scannen van datalandschappen</title>
+      <link>https://data-pseudonymization.com/nl/services/on-premise-sensitive-data-scanner/</link>
+      <pubDate>Fri, 13 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/on-premise-sensitive-data-scanner/</guid>
+      <description>GDPR-naleving op locatie bereiken: Laat onze Data Landscape Scanning Tool helpen Terwijl bedrijven door het steeds veranderende landschap van privacyregels navigeren, wordt het steeds belangrijker dat uw organisatie volledig voldoet aan de GDPR.</description>
+    </item>
+    
+    <item>
+      <title>GDPR-conforme beheerde SQL-instanties gehost in Duitsland met ingebouwde anonimisering</title>
+      <link>https://data-pseudonymization.com/nl/services/gdpr-sql-instances/</link>
+      <pubDate>Thu, 12 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/gdpr-sql-instances/</guid>
+      <description>Beveilig uw gegevens met GDPR-compliant Managed SQL Instances gehost in Duitsland Als het gaat om gegevensprivacy en compliance, een van de belangrijkste overwegingen is de fysieke locatie van uw gegevens.</description>
+    </item>
+    
+    <item>
+      <title>Overleg over naleving van gegevens</title>
+      <link>https://data-pseudonymization.com/nl/services/data-compliance-consultation/</link>
+      <pubDate>Wed, 11 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/data-compliance-consultation/</guid>
+      <description>Zorg voor GDPR-naleving met onze deskundige adviesdiensten. De naleving van de Algemene Verordening Gegevensbescherming (GDPR) kan voor elke organisatie een ontmoedigende taak zijn.</description>
+    </item>
+    
+    <item>
+      <title>ETL data pipelines. Laat ons uw gegevens transformeren en combineren.</title>
+      <link>https://data-pseudonymization.com/nl/services/data-pipelines/</link>
+      <pubDate>Tue, 10 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/nl/services/data-pipelines/</guid>
+      <description>Stroomlijn uw gegevensbeheer: Laat ons uw ETL-pijplijnen optimaliseren Gegevensbeheer is een cruciaal aspect van elk bedrijf, en het wordt alleen maar complexer naarmate de hoeveelheid gegevens toeneemt&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>

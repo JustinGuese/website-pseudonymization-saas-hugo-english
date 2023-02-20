@@ -16,6 +16,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/"
                 />
@@ -31,6 +36,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/anonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/anonymization/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -52,6 +62,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/blog/"
                 />
@@ -67,6 +82,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,6 +108,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-anonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/data-anonymization/"
                 />
@@ -103,6 +128,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/data-compliance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-compliance/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -124,6 +154,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-confidentiality/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/data-confidentiality/"
                 />
@@ -139,6 +174,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/data-control/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-control/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -160,6 +200,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-governance/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/data-governance/"
                 />
@@ -175,6 +220,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/data-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-management/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -196,6 +246,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/data-privacy/"
                 />
@@ -211,6 +266,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/data-privacy-law/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-privacy-law/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -232,6 +292,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-processing/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/data-processing/"
                 />
@@ -247,6 +312,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/data-protection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-protection/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -268,6 +338,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-pseudonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/data-pseudonymization/"
                 />
@@ -283,6 +358,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/data-risk-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-risk-management/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -304,6 +384,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/data-security/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/data-security/"
                 />
@@ -319,6 +404,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/easy-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/easy-guide/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -340,6 +430,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/eu-regulations/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/eu-regulations/"
                 />
@@ -355,6 +450,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/categories/gdpr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/categories/gdpr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -376,6 +476,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/gdpr-compliance/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/gdpr-compliance/"
                 />
@@ -391,6 +496,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/categories/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/categories/guide/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -412,6 +522,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/blog/pseudonymization-anonymization-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/blog/pseudonymization-anonymization-guide/"
                 />
@@ -427,6 +542,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/personal-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/personal-data/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -448,6 +568,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/pseudonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/pseudonymization/"
                 />
@@ -463,6 +588,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/tags/sensitive-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/sensitive-data/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -484,6 +614,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/tags/"
                 />
@@ -499,6 +634,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/services/sensitive-data-scanning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/services/sensitive-data-scanning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -520,6 +660,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/services/on-premise-sensitive-data-scanner/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/services/on-premise-sensitive-data-scanner/"
                 />
@@ -535,6 +680,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/services/gdpr-sql-instances/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/services/gdpr-sql-instances/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -556,6 +706,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/services/data-compliance-consultation/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/services/data-compliance-consultation/"
                 />
@@ -571,6 +726,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/services/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -592,6 +752,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/services/data-pipelines/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/services/data-pipelines/"
                 />
@@ -606,6 +771,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -626,6 +796,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/how-it-works/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/how-it-works/"
                 />
@@ -640,6 +815,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/faq/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -660,6 +840,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/pseudonymization/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/pseudonymization/"
                 />
@@ -674,6 +859,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/premium-file-format/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/premium-file-format/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -694,6 +884,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/imprint/"
                 />
@@ -708,6 +903,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -728,6 +928,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/subscription-plus-success/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/subscription-plus-success/"
                 />
@@ -742,6 +947,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/subscription-premium-success/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/subscription-premium-success/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -762,6 +972,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/premium/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/premium/"
                 />
@@ -779,6 +994,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://data-pseudonymization.com/fr/terms/"
                 />
@@ -793,6 +1013,11 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://data-pseudonymization.com/es/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://data-pseudonymization.com/nl/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"

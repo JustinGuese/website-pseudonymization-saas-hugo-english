@@ -1,0 +1,53 @@
+{
+  "name": "Data Pseudonymization",
+  "short_name": "Data Pseudonymization",
+  "lang": "nl-nl",
+  "theme_color": "#51B56D",
+  "background_color": "#fff",
+
+  // icon resize
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hud4fbde57cdb2b6d92a31ead82b059c9a_3288_48x0_resize_box_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hud4fbde57cdb2b6d92a31ead82b059c9a_3288_72x0_resize_box_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hud4fbde57cdb2b6d92a31ead82b059c9a_3288_96x0_resize_box_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hud4fbde57cdb2b6d92a31ead82b059c9a_3288_144x0_resize_box_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hud4fbde57cdb2b6d92a31ead82b059c9a_3288_192x0_resize_box_3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hud4fbde57cdb2b6d92a31ead82b059c9a_3288_512x0_resize_box_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  
+  "display": "standalone",
+  "start_url": "/nl?utm_source=web_app_manifest"
+}
