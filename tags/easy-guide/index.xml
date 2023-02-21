@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Developed by DataFortress.cloud UG</copyright>
-    <lastBuildDate>Fri, 10 Feb 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://data-pseudonymization.com/tags/easy-guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://data-pseudonymization.com/tags/easy-guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying Pseudonymization: Everything You Need to Know</title>
+      <link>https://data-pseudonymization.com/blog/what-is-data-pseudonymization/</link>
+      <pubDate>Tue, 14 Feb 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://data-pseudonymization.com/blog/what-is-data-pseudonymization/</guid>
+      <description>Demystifying Pseudonymization: Everything You Need to Know In the world of data privacy and security, it&amp;rsquo;s essential to understand the different techniques used to safeguard sensitive information.</description>
+    </item>
+    
     <item>
       <title>GDPR Compliance Made Easy: The Ultimate Guide to Pseudonymization and Anonymization</title>
       <link>https://data-pseudonymization.com/blog/pseudonymization-anonymization-guide/</link>
