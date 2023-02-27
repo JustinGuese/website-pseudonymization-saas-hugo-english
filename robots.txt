@@ -1,7 +1,1 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
 User-agent: *
-Allow: /
-
-Sitemap: https://data-pseudonymization.com/sitemap.xml
